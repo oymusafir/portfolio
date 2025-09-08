@@ -5,19 +5,16 @@ export const metadata: Metadata = {
   title:
     "Muhammad Adnan | Full Stack Developer & WhatsApp Marketing Expert",
   description:
-    "Muhammad Adnan is a full stack developer and WhatsApp marketing expert specializing in scalable web, desktop, and mobile apps, chatbots, CRMs, and custom social media marketing & automation tools.",
+    "Muhammad Adnan is a full stack developer and WhatsApp marketing expert, building apps, CRMs, chatbots, and WhatsApp Cloud API solutions.",
   keywords: [
     "Muhammad Adnan",
-    "full stack developer",
     "WhatsApp marketing expert",
+    "WhatsApp Cloud API",
+    "software engineer",
+    "full stack developer",
     "frontend developer",
     "backend developer",
     "chatbot developer",
-    "CRM developer",
-    "software engineer",
-    "web apps",
-    "desktop apps",
-    "mobile apps",
     "automation tools",
     "custom social media marketing tools",
     "social media automation tools",
@@ -36,13 +33,13 @@ export const metadata: Metadata = {
     title:
       "Muhammad Adnan | Full Stack Developer & WhatsApp Marketing Expert",
     description:
-      "Full stack developer and WhatsApp marketing expert delivering modern web, desktop, and mobile applications, custom chatbots, CRM solutions, and innovative social media marketing & automation tools.",
+      "Full stack developer and WhatsApp marketing expert specializing in apps, chatbots, CRMs, and WhatsApp Cloud API solutions.",
     images: [
       {
-        url: "https://muhammadadnan.dev/profile.png",
+        url: "https://muhammadadnan.dev/profile.jpg",
         width: 1200,
         height: 630,
-        alt: "Muhammad Adnan – Full Stack Developer & WhatsApp Marketing Expert",
+        alt: "Muhammad Adnan | Full Stack Developer & WhatsApp Marketing Expert",
       },
     ],
   },
@@ -52,8 +49,8 @@ export const metadata: Metadata = {
     title:
       "Muhammad Adnan | Full Stack Developer & WhatsApp Marketing Expert",
     description:
-      "Full stack developer and WhatsApp marketing expert creating scalable apps, automation solutions, and custom social media marketing tools.",
-    images: ["https://muhammadadnan.dev/profile.png"],
+      "Full stack developer and WhatsApp marketing expert specializing in apps, chatbots, CRMs, and WhatsApp Cloud API solutions.",
+    images: ["https://muhammadadnan.dev/profile.jpg"],
   },
 
   other: {
@@ -62,14 +59,14 @@ export const metadata: Metadata = {
       "@type": "Person",
       name: "Muhammad Adnan",
       url: "https://muhammadadnan.dev",
-      image: "https://muhammadadnan.dev/profile.png",
+      image: "https://muhammadadnan.dev/profile.jpg",
       sameAs: [
         "https://github.com/oymusafir",
         "https://linkedin.com/in/oymusafir",
       ],
       jobTitle: "Full Stack Developer & WhatsApp Marketing Expert",
       description:
-        "Muhammad Adnan is a full stack developer and WhatsApp marketing expert specializing in scalable applications, CRM systems, and custom social media marketing & automation tools.",
+        "Full stack developer and WhatsApp marketing expert specializing in apps, chatbots, CRMs, and WhatsApp Cloud API solutions.",
     }),
   },
 };
