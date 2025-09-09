@@ -1,3 +1,45 @@
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Automation & WhatsApp Marketing Tools | Muhammad Adnan Projects",
+  description:
+    "Browse Muhammad Adnan’s projects: powerful WhatsApp marketing software, Blaster Pro Tools, and custom automation platforms for Facebook, Instagram, LinkedIn, TikTok, and Twitter.",
+  keywords: [
+    "Muhammad Adnan projects",
+    "WhatsApp marketing software",
+    "automation tools",
+    "Blaster Pro Tools",
+    "social media automation",
+    "bulk WhatsApp messaging",
+    "marketing automation developer",
+  ],
+  openGraph: {
+    title: "Automation & WhatsApp Marketing Tools | Muhammad Adnan Projects",
+    description:
+      "Discover projects built by Muhammad Adnan, including WhatsApp marketing software, Blaster Pro Tools, and multi-platform automation tools.",
+    url: "https://muhammadadnan.dev/projects",
+    siteName: "Muhammad Adnan Portfolio",
+    images: [
+      {
+        url: "https://muhammadadnan.dev/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Muhammad Adnan Projects Showcase",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Automation & WhatsApp Marketing Tools | Muhammad Adnan Projects",
+    description:
+      "See Muhammad Adnan’s projects: WhatsApp marketing software, Blaster Pro Tools, and automation platforms for social media growth.",
+    images: ["https://muhammadadnan.dev/og-image.jpg"],
+  },
+};
+
+
 
 export default function ProjectsPage() {
   const projects = [

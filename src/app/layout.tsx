@@ -36,7 +36,7 @@ export const metadata: Metadata = {
       "Full stack developer and WhatsApp marketing expert specializing in apps, chatbots, CRMs, and WhatsApp Cloud API solutions.",
     images: [
       {
-        url: "https://muhammadadnan.dev/profile.jpg",
+        url: "https://muhammadadnan.dev/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "Muhammad Adnan | Full Stack Developer & WhatsApp Marketing Expert",
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
       "Muhammad Adnan | Full Stack Developer & WhatsApp Marketing Expert",
     description:
       "Full stack developer and WhatsApp marketing expert specializing in apps, chatbots, CRMs, and WhatsApp Cloud API solutions.",
-    images: ["https://muhammadadnan.dev/profile.jpg"],
+    images: ["https://muhammadadnan.dev/og-image.jpg"],
   },
 
   other: {
@@ -59,7 +59,7 @@ export const metadata: Metadata = {
       "@type": "Person",
       name: "Muhammad Adnan",
       url: "https://muhammadadnan.dev",
-      image: "https://muhammadadnan.dev/profile.jpg",
+      image: "https://muhammadadnan.dev/og-image.jpg",
       sameAs: [
         "https://github.com/oymusafir",
         "https://linkedin.com/in/oymusafir",
