@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
+Disallow:
 Host: https://muhammadadnan.dev
 Sitemap: https://muhammadadnan.dev/sitemap.xml
